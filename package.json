@@ -1,0 +1,27 @@
+{
+  "name": "expressjs_mvc",
+  "version": "1.0.0",
+  "description": "NodeJS Express with MVC without DB connection.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/supuna97/expressjs_mvc.git"
+  },
+  "keywords": [
+    "nodejs",
+    "expressjs",
+    "mvc"
+  ],
+  "author": "Supun Nanayakkara",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/supuna97/expressjs_mvc/issues"
+  },
+  "homepage": "https://github.com/supuna97/expressjs_mvc#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
