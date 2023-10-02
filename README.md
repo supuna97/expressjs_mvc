@@ -1,4 +1,4 @@
-# NodeJS Express with Layered Architecture
+# NodeJS Express with Layered Architecture sample desion
 - NodeJS Express with MVC without DB connection. 
 - This is for beginners, how to get started with nodeJS Express.
 
