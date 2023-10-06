@@ -6,4 +6,12 @@ module.exports = {
   post: (req, res) => {
     res.send("User Created!");
   },
+
+  update: (req, res) => {
+    res.send("User Updated!");
+  },
+
+  delete: (req, res) => {
+    res.send("User Deleted!");
+  },
 };
