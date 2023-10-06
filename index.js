@@ -2,8 +2,8 @@ const express = require("express");
 
 const app = express();
 
-const userRoute = require("./routes/User");
-app.use("/user", userRoute);
+const route = require("./routes/api_v1");
+app.use("/v1", route);
 
 app.listen(3005, () => {
   console.log("Server running on port 3005!");
